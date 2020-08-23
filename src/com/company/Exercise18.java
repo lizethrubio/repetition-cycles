@@ -45,6 +45,7 @@ public class Exercise18 {
         for (int i = 0; i < matrix.length; i++) {
             System.out.print(sumR[i] + ", ");
         }
+
         System.out.println("\nLa suma de filas es: ");
         for (int j = 0; j < sumC.length; j++) {
             System.out.print(sumC[j] + ", ");
