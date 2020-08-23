@@ -3,6 +3,6 @@ package com.company;
 //        represéntelo mediante diagrama de flujo y pseudocódigo.
 public class Exercise13 {
     public static void main(String[] args) {
-        System.out.println("Este ejercicio no se realizó");
+        System.out.println("Este ejercicio no se realizó, está errado");
     }
 }
